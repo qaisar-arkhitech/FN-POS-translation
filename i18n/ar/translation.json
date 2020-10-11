@@ -200,5 +200,6 @@
   "no_item_for_print": "There are no items to print",
   "phone_number": "Phone number",
   "select_customer_information": "Select customer information",
-  "invalid_phone_number": "Invalid Phone Number"
+  "invalid_phone_number": "Invalid Phone Number",
+  "city_cannot_be_blank": "City cannot be blank"
 }
